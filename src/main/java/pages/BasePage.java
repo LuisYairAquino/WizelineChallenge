@@ -6,7 +6,6 @@ import org.openqa.selenium.support.PageFactory;
 public abstract class BasePage {
 
 	protected WebDriver driver;
-	protected String baseURL;
 
 
 	public BasePage(WebDriver driver) {
